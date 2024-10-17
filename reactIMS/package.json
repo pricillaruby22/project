@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "firebase": "^10.14.1",
+    "react-scripts": "^3.0.1"
+  }
+}
